@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-Gif {
+  height: 60vmin;
+  max-height:500px;
+  min-height:200px;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #d0beb1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
